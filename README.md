@@ -105,6 +105,6 @@ Acknowledgments
 Libraries used: pyttsx3, speech_recognition, requests-html, Tkinter
 Inspired by the concept of virtual assistants like Alexa and Google Assistant
 
-<center>
+<p align="center">
   <img src="image/working_image.png" width="550" height="675">
-</center>
+</p>
